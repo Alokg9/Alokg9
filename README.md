@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.dribbble.com/users/32512/screenshots/3363261/the_wave_natural_ai_by_gleb.gif)
+[![MasterHead](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnV6djBpOHZzeHg1ZGE2azV6cjhiZ2dtYW01OTg3NWFxNXE0bWJzNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yl3XErRq8qmmA/giphy.gif)
 <h1 align="center">Hi 👋, I'm ALOK GUPTA</h1>
 <h3 align="center">Mastering NLP, Data Science, and Full Stack Web Development for Tomorrow's Solutions</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzg3cXhxMzV5YXI2eGtpd3hzbmd2NmMwMm1vemNiaGtxNGl5ejVkaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Hrm0LJNRkPHDkLIHz9/giphy.gif">
