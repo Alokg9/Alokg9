@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **alok.gupta.bnp@gmail.com**
 
-- 📄 Know about my experiences (https://drive.google.com/drive/u/0/home?lfhs=2)
+- 📄 Know about my experiences (https://drive.google.com/file/d/1rZd9_1jYVrd0yF-TxOkcZTT7Qfg8M7Ax/view?usp=drive_link)
 - ⚡ Fun fact **I'm constantly trying to use psychology to break bad habits and build good ones. It's a work in progress!**
 
 <h3 align="left">Connect with me:</h3>
