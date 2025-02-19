@@ -1,4 +1,4 @@
-![MasterHead](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2kxZmR6bjNqeDJ6ZXRmOW02eTJ4dHYzZjhtNTZiNHprYW55OG4wbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif)
+![MasterHead]()
 <h1 align="center">Hi 👋, I'm ALOK GUPTA</h1>
 <h3 align="center">Mastering NLP, Data Science, and Full Stack Web Development for Tomorrow's Solutions</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzg3cXhxMzV5YXI2eGtpd3hzbmd2NmMwMm1vemNiaGtxNGl5ejVkaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Hrm0LJNRkPHDkLIHz9/giphy.gif">
